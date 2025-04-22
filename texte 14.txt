@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aller en Angleterre en Bateau</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #0c4c8a;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background: white;
+        }
+        h2 {
+            color: #0c4c8a;
+        }
+        a {
+            color: #0c4c8a;
+            text-decoration: underline;
+        }
+        footer {
+            background: #eee;
+            text-align: center;
+            padding: 10px;
+            font-size: 14px;
+            color: #555;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        h3 {
+            margin-top: 1.5em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Aller en Angleterre en Bateau</h1>
+    <p>Guide pratique pour traverser la Manche facilement</p>
+</header>
+
+<div class="container">
+    <h2>Pourquoi choisir le bateau ?</h2>
+    <p>Prendre le ferry pour aller en Angleterre, c’est souvent plus économique et plus flexible qu’un vol. C’est aussi une bonne option si tu veux emmener ta voiture.</p>
+
+    <h2>Les principales liaisons</h2>
+    <ul>
+        <li><strong>Calais - Douvres</strong> (1h30) : la plus rapide et la plus populaire.</li>
+        <li><strong>Dieppe - Newhaven</strong> (4h) : pratique depuis Paris ou le centre de la France.</li>
+        <li><strong>Caen - Portsmouth</strong> : plus confortable, idéal pour l’ouest de la France.</li>
+    </ul>
+
+    <h2>Réserver un billet</h2>
+    <p>Tu peux comparer les prix et réserver un billet de ferry sur des sites comme :  
+        <a href="https://www.directferries.fr/affiliation" target="_blank">Direct Ferries</a>  
+        ou  
+        <a href="https://www.aferry.fr/affiliation" target="_blank">AFerry</a>.</p>
+
+    <h2>Préparer son voyage : la checklist</h2>
+
+    <h3>Vêtements</h3>
+    <ul>
+        <li>Vêtements adaptés à la météo (couche de vêtements pour le temps variable)</li>
+        <li>Veste imperméable ou coupe-vent</li>
+        <li>Pull ou sweat-shirt</li>
+        <li>Pantalons confortables</li>
+        <li>Chaussures confortables pour la marche</li>
+    </ul>
+
+    <h3>Accessoires</h3>
+    <ul>
+        <li>Parapluie ou imperméable</li>
+        <li>Écharpe et gants (selon la saison)</li>
+        <li>Bonnet</li>
+    </ul>
+
+    <h3>Électronique</h3>
+    <ul>
+        <li>Adaptateur de prise britannique</li>
+        <li>Chargeurs pour appareils électroniques</li>
+        <li>Smartphone avec applications de voyage</li>
+    </ul>
+
+    <h3>Santé</h3>
+    <ul>
+        <li>Carte européenne d'assurance maladie</li>
+        <li>Trousse de premiers secours (médicaments personnels, pansements)</li>
+    </ul>
+
+    <h3>Autres</h3>
+    <ul>
+        <li>Sac à dos pour les excursions</li>
+        <li>Guide de voyage ou carte</li>
+        <li>Bouteille d'eau réutilisable</li>
+        <li>Snacks pour le voyage</li>
+    </ul>
+
+    <h3>Divers</h3>
+    <ul>
+        <li>Livres ou jeux pour les temps d'attente</li>
+        <li>Appareil photo pour souvenirs</li>
+    </ul>
+
+    <h2>Conseils pratiques</h2>
+    <ul>
+        <li>Arrive au port au moins <strong>1h avant le départ</strong>.</li>
+        <li>Prévois tes papiers (passeport obligatoire depuis le Brexit).</li>
+        <li><strong>Vérifie ton abonnement téléphonique</strong> pour éviter les frais hors forfait (certaines offres ne couvrent plus le Royaume-Uni en roaming gratuit).</li>
+        <li>Pense à l’assurance auto si tu emmènes ton véhicule.</li>
+        <li>Emporte des snacks ou de quoi t’occuper pendant la traversée.</li>
+    </ul>
+
+    <h2>Foire aux questions</h2>
+    <p><strong>Faut-il un passeport ?</strong><br>Oui, depuis le Brexit, la carte d’identité ne suffit plus.</p>
+
+    <p><strong>Peut-on embarquer avec un animal ?</strong><br>Oui, mais il faut respecter les règles sanitaires (vaccins, puce, passeport européen pour animaux).</p>
+</div>
+
+<footer>
+    © 2025 - Guide traversée Angleterre | Créé par une passionnée de voyages
+</footer>
+
+</body>
+</html>
